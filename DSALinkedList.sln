@@ -1,5 +1,5 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 12.00 them de pull
+Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35303.130
 MinimumVisualStudioVersion = 10.0.40219.1
@@ -14,8 +14,6 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "wecodeth.2", "wecodeth.2\wecodeth.2.vcxproj", "{EFAEFF2D-12D9-40EF-840E-DE73B3414B23}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "printmiddle", "printmiddle\printmiddle.vcxproj", "{7C247BEA-6FC6-4842-8803-58C8B0EECE88}"
-EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "printk", "printk\printk.vcxproj", "{84864557-890B-4481-92A5-4CB421975121}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "removenode", "removenode\removenode.vcxproj", "{51CB78DA-2A86-4E2D-B1AD-4385D72F3F24}"
 EndProject
@@ -85,14 +83,6 @@ Global
 		{7C247BEA-6FC6-4842-8803-58C8B0EECE88}.Release|x64.Build.0 = Release|x64
 		{7C247BEA-6FC6-4842-8803-58C8B0EECE88}.Release|x86.ActiveCfg = Release|Win32
 		{7C247BEA-6FC6-4842-8803-58C8B0EECE88}.Release|x86.Build.0 = Release|Win32
-		{84864557-890B-4481-92A5-4CB421975121}.Debug|x64.ActiveCfg = Debug|x64
-		{84864557-890B-4481-92A5-4CB421975121}.Debug|x64.Build.0 = Debug|x64
-		{84864557-890B-4481-92A5-4CB421975121}.Debug|x86.ActiveCfg = Debug|Win32
-		{84864557-890B-4481-92A5-4CB421975121}.Debug|x86.Build.0 = Debug|Win32
-		{84864557-890B-4481-92A5-4CB421975121}.Release|x64.ActiveCfg = Release|x64
-		{84864557-890B-4481-92A5-4CB421975121}.Release|x64.Build.0 = Release|x64
-		{84864557-890B-4481-92A5-4CB421975121}.Release|x86.ActiveCfg = Release|Win32
-		{84864557-890B-4481-92A5-4CB421975121}.Release|x86.Build.0 = Release|Win32
 		{51CB78DA-2A86-4E2D-B1AD-4385D72F3F24}.Debug|x64.ActiveCfg = Debug|x64
 		{51CB78DA-2A86-4E2D-B1AD-4385D72F3F24}.Debug|x64.Build.0 = Debug|x64
 		{51CB78DA-2A86-4E2D-B1AD-4385D72F3F24}.Debug|x86.ActiveCfg = Debug|Win32
